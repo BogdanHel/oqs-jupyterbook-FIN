@@ -8,7 +8,7 @@ Tämä kurssi on tarkoitettu maisteriopiskelijoille, joilla on taustaa kvanttime
 [Linkki sivustolle](https://qplaylearn.github.io/oqs-jupyterbook)
 
 ## Asennus
-Jotta pääset käyttämään kurssin notebookeja ja voit toistaa tulokset, kopioi tämä tietovarasto (repository) laitteellesi ja luo Python 3.11.9 -ympäristö valitsemallasi tavalla (virtualenv, conda tai poetry). Esimerkiksi käyttäen poetryä: 
+Jotta pääset käyttämään kurssin notebookeja ja voit toistaa tulokset, kopioi tämä tietovarasto (repository) laitteellesi ja luo Python 3.11.10 -ympäristö valitsemallasi tavalla (virtualenv, conda tai poetry). Esimerkiksi käyttäen poetryä: 
 
 ```shell
 poetry install
