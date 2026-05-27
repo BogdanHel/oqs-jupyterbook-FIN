@@ -24,7 +24,7 @@ jobs:
             ${{ runner.os }}-pip-
 
       # - name: Restore cache ruby
-      #   uses: actions/cache@v1
+      #   uses: actions/cache@v4
       #   with:
       #     path: vendor/bundle
       #     key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
